@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://farifam.com/chucknorrisjoke" version="1.0.0" viewmodes="maximized">
+    <access origin="*" subdomains="true"></access>
+    <tizen:application id="F0ONjN36EJ.chucknorrisjoke" package="F0ONjN36EJ" required_version="2.3"/>
+    <author href="http://www.farifam.com" email="sabitzhabit@gmail.com">Farifam</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="17794049.png"/>
+    <name>Chuck Norris Joke</name>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="mobile"/>
+</widget>
